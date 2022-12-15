@@ -32,11 +32,7 @@ function sumOfMinMax(arr = []) {
     console.log(`the min is: ${min}`)
 }
 
-sumOfMinMax([15, 99, true, -2, "string", 55, 32, false, 56, 41, 23, "another string", 100, "string # 3", 101, "more more strings"]);
-
-
-
-
+sumOfMinMax([15, 99, true, -2, null, "string", 55, 32, false, 56, 41, 23, "another string", 100, "string # 3", 101, "more more strings"]);
 
 
 
