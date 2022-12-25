@@ -19,4 +19,4 @@ function createTable(colum, rows) {
 }
 
 
-createTable(6,8)
+createTable(parseInt(prompt("Please enter row")),parseInt(prompt("Please enter columns")))
